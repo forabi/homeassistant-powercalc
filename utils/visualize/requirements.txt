@@ -2,7 +2,7 @@ colour==0.1.5
 colour-science==0.4.2
 contourpy==1.0.6
 cycler==0.11.0
-fonttools==4.38.0
+fonttools==4.43.0
 imageio==2.25.1
 kiwisolver==1.4.4
 matplotlib==3.6.2
